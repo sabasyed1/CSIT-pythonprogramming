@@ -1,7 +1,6 @@
 #SABA SYED
-#CSIT104-04
-#KATERINE G. HERBERT
-#A PROGRAM THAT DISPLAYS YOUR NAME IN BUBBLE LETTERS IN ASCII FORMAT
+
+
 print ("  _________       _           ")
 print (" /   _____/____  | |__   ____   ")
 print (" \______ \|___ \ | __ \ |____ \  ")
