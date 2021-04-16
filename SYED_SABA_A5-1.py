@@ -1,8 +1,5 @@
 #SABA SYED
-#CSIT104-04
-#KATHERINE H. BERGER
 #04/12/2020
-#PROGRAM FOR MADLIBS
 
 title = ("Excused")
 date = input("Todays Date: ")
